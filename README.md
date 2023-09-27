@@ -1,4 +1,4 @@
-
+  ![logo](https://github.com/Vipin8975/Vipin8975/blob/main/github_bg.png?raw=true)
 
 <h1 align="center">Hello 👋, I'm Vipin Jugnake</h1>
 
