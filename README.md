@@ -1,5 +1,4 @@
-  ![logo](https://github.com/Vipin8975/Vipin8975/blob/main/github_bg.png?raw=true)
-
+<img align="right" width="1000" src="https://github.com/Vipin8975/Vipin8975/blob/main/github_bg_bg.png?raw=true">
 <h1 align="center">Hello 👋, I'm Vipin Jugnake</h1>
 
 <h3 align="center">A Enthusiastic and Dedicated Computer Science Student "Where Code Meets Community for Students"</h3>
@@ -8,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin8975&label=Profile%20views&color=0e75b6&style=flat" alt="vipin8975" /> </p>
 
-- 🌱 I’m currently learning **DSA and Backend**
+- 🌱 I’m currently learning **DSA and Backend development **
 
 - 📫 How to reach me **vipinjugnake@gmail.com**
 
