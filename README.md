@@ -1,4 +1,4 @@
-<img align="right" width="1000" src="https://github.com/Vipin8975/Vipin8975/blob/main/github_bg_bg.png?raw=true">
+
 <h1 align="center">Hello 👋, I'm Vipin Jugnake</h1>
 
 <h3 align="center">A Enthusiastic and Dedicated Computer Science Student "Where Code Meets Community for Students"</h3>
